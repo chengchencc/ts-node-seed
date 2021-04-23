@@ -1,0 +1,1961 @@
+{
+    "gbt1": [
+        {
+            "value": "A",
+            "label": "农、林、牧、渔业",
+            "children": [
+                {
+                    "value": "01",
+                    "label": "农业",
+                    "parent": "A",
+                    "children": [
+                        {
+                            "value": "011",
+                            "label": "谷物种植",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0111",
+                                    "label": "稻谷种植",
+                                    "parent": "011"
+                                },
+                                {
+                                    "value": "0112",
+                                    "label": "小麦种植",
+                                    "parent": "011"
+                                },
+                                {
+                                    "value": "0113",
+                                    "label": "玉米种植",
+                                    "parent": "011"
+                                },
+                                {
+                                    "value": "0119",
+                                    "label": "其他谷物种植",
+                                    "parent": "011"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "012",
+                            "label": "豆类、油料和薯类种植",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0121",
+                                    "label": "豆类种植",
+                                    "parent": "012"
+                                },
+                                {
+                                    "value": "0122",
+                                    "label": "油料种植",
+                                    "parent": "012"
+                                },
+                                {
+                                    "value": "0123",
+                                    "label": "薯类种植",
+                                    "parent": "012"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "013",
+                            "label": "棉、麻、糖、烟草种植",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0131",
+                                    "label": "棉花种植",
+                                    "parent": "013"
+                                },
+                                {
+                                    "value": "0132",
+                                    "label": "麻类种植",
+                                    "parent": "013"
+                                },
+                                {
+                                    "value": "0133",
+                                    "label": "糖料种植",
+                                    "parent": "013"
+                                },
+                                {
+                                    "value": "0134",
+                                    "label": "烟草种植",
+                                    "parent": "013"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "014",
+                            "label": "蔬菜、食用菌及园艺作物种植",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0141",
+                                    "label": "蔬菜种植",
+                                    "parent": "014"
+                                },
+                                {
+                                    "value": "0142",
+                                    "label": "食用菌种植",
+                                    "parent": "014"
+                                },
+                                {
+                                    "value": "0143",
+                                    "label": "花卉种植",
+                                    "parent": "014"
+                                },
+                                {
+                                    "value": "0149",
+                                    "label": "其他园艺作物种植",
+                                    "parent": "014"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "015",
+                            "label": "水果种植",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0151",
+                                    "label": "仁果类和核果类水果种植",
+                                    "parent": "015"
+                                },
+                                {
+                                    "value": "0152",
+                                    "label": "葡萄种植",
+                                    "parent": "015"
+                                },
+                                {
+                                    "value": "0153",
+                                    "label": "柑橘类种植",
+                                    "parent": "015"
+                                },
+                                {
+                                    "value": "0154",
+                                    "label": "香蕉等亚热带水果种植",
+                                    "parent": "015"
+                                },
+                                {
+                                    "value": "0159",
+                                    "label": "其他水果种植",
+                                    "parent": "015"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "016",
+                            "label": "坚果、含油果、香料和饮料作物种植",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0161",
+                                    "label": "坚果种植",
+                                    "parent": "016"
+                                },
+                                {
+                                    "value": "0162",
+                                    "label": "含油果种植",
+                                    "parent": "016"
+                                },
+                                {
+                                    "value": "0163",
+                                    "label": "香料作物种植",
+                                    "parent": "016"
+                                },
+                                {
+                                    "value": "0164",
+                                    "label": "茶叶种植",
+                                    "parent": "016"
+                                },
+                                {
+                                    "value": "0169",
+                                    "label": "其他饮料作物种植",
+                                    "parent": "016"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "017",
+                            "label": "中药材种植",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0171",
+                                    "label": "中草药种植",
+                                    "parent": "017"
+                                },
+                                {
+                                    "value": "0179",
+                                    "label": "其他中药材种植",
+                                    "parent": "017"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "018",
+                            "label": "草种植及割草",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0181",
+                                    "label": "草种植",
+                                    "parent": "018"
+                                },
+                                {
+                                    "value": "0182",
+                                    "label": "天然草原割草",
+                                    "parent": "018"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "019",
+                            "label": "其他农业",
+                            "parent": "01",
+                            "children": [
+                                {
+                                    "value": "0190",
+                                    "label": "其他农业",
+                                    "parent": "019"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "02",
+                    "label": "林业",
+                    "parent": "A",
+                    "children": [
+                        {
+                            "value": "021",
+                            "label": "林木育种和育苗",
+                            "parent": "02",
+                            "children": [
+                                {
+                                    "value": "0211",
+                                    "label": "林木育种",
+                                    "parent": "021"
+                                },
+                                {
+                                    "value": "0212",
+                                    "label": "林木育苗",
+                                    "parent": "021"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "022",
+                            "label": "造林和更新",
+                            "parent": "02",
+                            "children": [
+                                {
+                                    "value": "0220",
+                                    "label": "造林和更新",
+                                    "parent": "022"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "023",
+                            "label": "森林经营、管护和改培",
+                            "parent": "02",
+                            "children": [
+                                {
+                                    "value": "0231",
+                                    "label": "森林经营和管护",
+                                    "parent": "023"
+                                },
+                                {
+                                    "value": "0232",
+                                    "label": "森林改培",
+                                    "parent": "023"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "024",
+                            "label": "木材和竹材采运",
+                            "parent": "02",
+                            "children": [
+                                {
+                                    "value": "0241",
+                                    "label": "木材采运",
+                                    "parent": "024"
+                                },
+                                {
+                                    "value": "0242",
+                                    "label": "竹材采运",
+                                    "parent": "024"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "025",
+                            "label": "林产品采集",
+                            "parent": "02",
+                            "children": [
+                                {
+                                    "value": "0251",
+                                    "label": "木竹材林产品采集",
+                                    "parent": "025"
+                                },
+                                {
+                                    "value": "0252",
+                                    "label": "非木竹材林产品采集",
+                                    "parent": "025"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "03",
+                    "label": "畜牧业",
+                    "parent": "A",
+                    "children": [
+                        {
+                            "value": "031",
+                            "label": "牲畜饲养",
+                            "parent": "03",
+                            "children": [
+                                {
+                                    "value": "0311",
+                                    "label": "牛的饲养",
+                                    "parent": "031"
+                                },
+                                {
+                                    "value": "0312",
+                                    "label": "马的饲养",
+                                    "parent": "031"
+                                },
+                                {
+                                    "value": "0313",
+                                    "label": "猪的饲养",
+                                    "parent": "031"
+                                },
+                                {
+                                    "value": "0314",
+                                    "label": "羊的饲养",
+                                    "parent": "031"
+                                },
+                                {
+                                    "value": "0315",
+                                    "label": "骆驼饲养",
+                                    "parent": "031"
+                                },
+                                {
+                                    "value": "0319",
+                                    "label": "其他牲畜饲养",
+                                    "parent": "031"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "032",
+                            "label": "家禽饲养",
+                            "parent": "03",
+                            "children": [
+                                {
+                                    "value": "0321",
+                                    "label": "鸡的饲养",
+                                    "parent": "032"
+                                },
+                                {
+                                    "value": "0322",
+                                    "label": "鸭的饲养",
+                                    "parent": "032"
+                                },
+                                {
+                                    "value": "0323",
+                                    "label": "鹅的饲养",
+                                    "parent": "032"
+                                },
+                                {
+                                    "value": "0329",
+                                    "label": "其他家禽饲养",
+                                    "parent": "032"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "033",
+                            "label": "狩猎和捕捉动物",
+                            "parent": "03",
+                            "children": [
+                                {
+                                    "value": "0330",
+                                    "label": "狩猎和捕捉动物",
+                                    "parent": "033"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "039",
+                            "label": "其他畜牧业",
+                            "parent": "03",
+                            "children": [
+                                {
+                                    "value": "0391",
+                                    "label": "兔的饲养",
+                                    "parent": "039"
+                                },
+                                {
+                                    "value": "0392",
+                                    "label": "蜜蜂饲养",
+                                    "parent": "039"
+                                },
+                                {
+                                    "value": "0399",
+                                    "label": "其他未列明畜牧业",
+                                    "parent": "039"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "04",
+                    "label": "渔业",
+                    "parent": "A",
+                    "children": [
+                        {
+                            "value": "041",
+                            "label": "水产养殖",
+                            "parent": "04",
+                            "children": [
+                                {
+                                    "value": "0411",
+                                    "label": "海水养殖",
+                                    "parent": "041"
+                                },
+                                {
+                                    "value": "0412",
+                                    "label": "内陆养殖",
+                                    "parent": "041"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "042",
+                            "label": "水产捕捞",
+                            "parent": "04",
+                            "children": [
+                                {
+                                    "value": "0421",
+                                    "label": "海水捕捞",
+                                    "parent": "042"
+                                },
+                                {
+                                    "value": "0422",
+                                    "label": "内陆捕捞",
+                                    "parent": "042"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "05",
+                    "label": "农、林、牧、渔专业及辅助性活动",
+                    "parent": "A",
+                    "children": [
+                        {
+                            "value": "051",
+                            "label": "农业专业及辅助性活动",
+                            "parent": "05",
+                            "children": [
+                                {
+                                    "value": "0511",
+                                    "label": "种子种苗培育活动",
+                                    "parent": "051"
+                                },
+                                {
+                                    "value": "0512",
+                                    "label": "农业机械活动",
+                                    "parent": "051"
+                                },
+                                {
+                                    "value": "0513",
+                                    "label": "灌溉活动",
+                                    "parent": "051"
+                                },
+                                {
+                                    "value": "0514",
+                                    "label": "农产品初加工活动",
+                                    "parent": "051"
+                                },
+                                {
+                                    "value": "0515",
+                                    "label": "农作物病虫害防治活动",
+                                    "parent": "051"
+                                },
+                                {
+                                    "value": "0519",
+                                    "label": "其他农业专业及辅助性活动",
+                                    "parent": "051"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "052",
+                            "label": "林业专业及辅助性活动",
+                            "parent": "05",
+                            "children": [
+                                {
+                                    "value": "0521",
+                                    "label": "林业有害生物防治活动",
+                                    "parent": "052"
+                                },
+                                {
+                                    "value": "0522",
+                                    "label": "森林防火活动",
+                                    "parent": "052"
+                                },
+                                {
+                                    "value": "0523",
+                                    "label": "林产品初级加工活动",
+                                    "parent": "052"
+                                },
+                                {
+                                    "value": "0529",
+                                    "label": "其他林业专业及辅助性活动",
+                                    "parent": "052"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "053",
+                            "label": "畜牧专业及辅助性活动",
+                            "parent": "05",
+                            "children": [
+                                {
+                                    "value": "0531",
+                                    "label": "畜牧良种繁殖活动",
+                                    "parent": "053"
+                                },
+                                {
+                                    "value": "0532",
+                                    "label": "畜禽粪污处理活动",
+                                    "parent": "053"
+                                },
+                                {
+                                    "value": "0539",
+                                    "label": "其他畜牧专业及辅助性活动",
+                                    "parent": "053"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "054",
+                            "label": "渔业专业及辅助性活动",
+                            "parent": "05",
+                            "children": [
+                                {
+                                    "value": "0541",
+                                    "label": "鱼苗及鱼种场活动",
+                                    "parent": "054"
+                                },
+                                {
+                                    "value": "0549",
+                                    "label": "其他渔业专业及辅助性活动",
+                                    "parent": "054"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value": "C",
+            "label": "制造业",
+            "children": [
+                {
+                    "value": "13",
+                    "label": "农副食品加工业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "131",
+                            "label": "谷物磨制",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1311",
+                                    "label": "稻谷加工",
+                                    "parent": "131"
+                                },
+                                {
+                                    "value": "1312",
+                                    "label": "小麦加工",
+                                    "parent": "131"
+                                },
+                                {
+                                    "value": "1313",
+                                    "label": "玉米加工",
+                                    "parent": "131"
+                                },
+                                {
+                                    "value": "1314",
+                                    "label": "杂粮加工",
+                                    "parent": "131"
+                                },
+                                {
+                                    "value": "1319",
+                                    "label": "其他谷物磨制",
+                                    "parent": "131"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "132",
+                            "label": "饲料加工",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1321",
+                                    "label": "宠物饲料加工",
+                                    "parent": "132"
+                                },
+                                {
+                                    "value": "1329",
+                                    "label": "其他饲料加工",
+                                    "parent": "132"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "133",
+                            "label": "植物油加工",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1331",
+                                    "label": "食用植物油加工",
+                                    "parent": "133"
+                                },
+                                {
+                                    "value": "1332",
+                                    "label": "非食用植物油加工",
+                                    "parent": "133"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "134",
+                            "label": "制糖业",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1340",
+                                    "label": "制糖业",
+                                    "parent": "134"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "135",
+                            "label": "屠宰及肉类加工",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1351",
+                                    "label": "牲畜屠宰",
+                                    "parent": "135"
+                                },
+                                {
+                                    "value": "1352",
+                                    "label": "禽类屠宰",
+                                    "parent": "135"
+                                },
+                                {
+                                    "value": "1353",
+                                    "label": "肉制品及副产品加工",
+                                    "parent": "135"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "136",
+                            "label": "水产品加工",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1361",
+                                    "label": "水产品冷冻加工",
+                                    "parent": "136"
+                                },
+                                {
+                                    "value": "1362",
+                                    "label": "鱼糜制品及水产品干腌制加工",
+                                    "parent": "136"
+                                },
+                                {
+                                    "value": "1363",
+                                    "label": "鱼油提取及制品制造",
+                                    "parent": "136"
+                                },
+                                {
+                                    "value": "1369",
+                                    "label": "其他水产品加工",
+                                    "parent": "136"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "137",
+                            "label": "蔬菜、菌类、水果和坚果加工",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1371",
+                                    "label": "蔬菜加工",
+                                    "parent": "137"
+                                },
+                                {
+                                    "value": "1372",
+                                    "label": "食用菌加工",
+                                    "parent": "137"
+                                },
+                                {
+                                    "value": "1373",
+                                    "label": "水果和坚果加工",
+                                    "parent": "137"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "139",
+                            "label": "其他农副食品加工",
+                            "parent": "13",
+                            "children": [
+                                {
+                                    "value": "1391",
+                                    "label": "淀粉及淀粉制品制造",
+                                    "parent": "139"
+                                },
+                                {
+                                    "value": "1392",
+                                    "label": "豆制品制造",
+                                    "parent": "139"
+                                },
+                                {
+                                    "value": "1393",
+                                    "label": "蛋品加工",
+                                    "parent": "139"
+                                },
+                                {
+                                    "value": "1399",
+                                    "label": "其他未列明农副食品加工",
+                                    "parent": "139"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "14",
+                    "label": "食品制造业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "141",
+                            "label": "焙烤食品制造",
+                            "parent": "14",
+                            "children": [
+                                {
+                                    "value": "1411",
+                                    "label": "糕点、面包制造",
+                                    "parent": "141"
+                                },
+                                {
+                                    "value": "1419",
+                                    "label": "饼干及其他焙烤食品制造",
+                                    "parent": "141"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "142",
+                            "label": "糖果、巧克力及蜜饯制造",
+                            "parent": "14",
+                            "children": [
+                                {
+                                    "value": "1421",
+                                    "label": "糖果、巧克力制造",
+                                    "parent": "142"
+                                },
+                                {
+                                    "value": "1422",
+                                    "label": "蜜饯制作",
+                                    "parent": "142"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "143",
+                            "label": "方便食品制造",
+                            "parent": "14",
+                            "children": [
+                                {
+                                    "value": "1431",
+                                    "label": "米、面制品制造",
+                                    "parent": "143"
+                                },
+                                {
+                                    "value": "1432",
+                                    "label": "速冻食品制造",
+                                    "parent": "143"
+                                },
+                                {
+                                    "value": "1433",
+                                    "label": "方便面制造",
+                                    "parent": "143"
+                                },
+                                {
+                                    "value": "1439",
+                                    "label": "其他方便食品制造",
+                                    "parent": "143"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "144",
+                            "label": "乳制品制造",
+                            "parent": "14",
+                            "children": [
+                                {
+                                    "value": "1441",
+                                    "label": "液体乳制造",
+                                    "parent": "144"
+                                },
+                                {
+                                    "value": "1442",
+                                    "label": "乳粉制造",
+                                    "parent": "144"
+                                },
+                                {
+                                    "value": "1449",
+                                    "label": "其他乳制品制造",
+                                    "parent": "144"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "145",
+                            "label": "罐头食品制造",
+                            "parent": "14",
+                            "children": [
+                                {
+                                    "value": "1451",
+                                    "label": "肉、禽类罐头制造",
+                                    "parent": "145"
+                                },
+                                {
+                                    "value": "1452",
+                                    "label": "水产品罐头制造",
+                                    "parent": "145"
+                                },
+                                {
+                                    "value": "1453",
+                                    "label": "蔬菜、水果罐头制造",
+                                    "parent": "145"
+                                },
+                                {
+                                    "value": "1459",
+                                    "label": "其他罐头食品制造",
+                                    "parent": "145"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "146",
+                            "label": "调味品、发酵制品制造",
+                            "parent": "14",
+                            "children": [
+                                {
+                                    "value": "1461",
+                                    "label": "味精制造",
+                                    "parent": "146"
+                                },
+                                {
+                                    "value": "1462",
+                                    "label": "酱油、食醋及类似制品制造",
+                                    "parent": "146"
+                                },
+                                {
+                                    "value": "1469",
+                                    "label": "其他调味品、发酵制品制造",
+                                    "parent": "146"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "149",
+                            "label": "其他食品制造",
+                            "parent": "14",
+                            "children": [
+                                {
+                                    "value": "1491",
+                                    "label": "营养食品制造",
+                                    "parent": "149"
+                                },
+                                {
+                                    "value": "1492",
+                                    "label": "保健食品制造",
+                                    "parent": "149"
+                                },
+                                {
+                                    "value": "1493",
+                                    "label": "冷冻饮品及食用冰制造",
+                                    "parent": "149"
+                                },
+                                {
+                                    "value": "1494",
+                                    "label": "盐加工",
+                                    "parent": "149"
+                                },
+                                {
+                                    "value": "1495",
+                                    "label": "食品及饲料添加剂制造",
+                                    "parent": "149"
+                                },
+                                {
+                                    "value": "1499",
+                                    "label": "其他未列明食品制造",
+                                    "parent": "149"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "15",
+                    "label": "酒、饮料和精制茶制造业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "151",
+                            "label": "酒的制造",
+                            "parent": "15",
+                            "children": [
+                                {
+                                    "value": "1511",
+                                    "label": "酒精制造",
+                                    "parent": "151"
+                                },
+                                {
+                                    "value": "1512",
+                                    "label": "白酒制造",
+                                    "parent": "151"
+                                },
+                                {
+                                    "value": "1513",
+                                    "label": "啤酒制造",
+                                    "parent": "151"
+                                },
+                                {
+                                    "value": "1514",
+                                    "label": "黄酒制造",
+                                    "parent": "151"
+                                },
+                                {
+                                    "value": "1515",
+                                    "label": "葡萄酒制造",
+                                    "parent": "151"
+                                },
+                                {
+                                    "value": "1519",
+                                    "label": "其他酒制造",
+                                    "parent": "151"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "152",
+                            "label": "饮料制造",
+                            "parent": "15",
+                            "children": [
+                                {
+                                    "value": "1521",
+                                    "label": "碳酸饮料制造",
+                                    "parent": "152"
+                                },
+                                {
+                                    "value": "1522",
+                                    "label": "瓶（罐）装饮用水制造",
+                                    "parent": "152"
+                                },
+                                {
+                                    "value": "1523",
+                                    "label": "果菜汁及果菜汁饮料制造",
+                                    "parent": "152"
+                                },
+                                {
+                                    "value": "1524",
+                                    "label": "含乳饮料和植物蛋白饮料制造",
+                                    "parent": "152"
+                                },
+                                {
+                                    "value": "1525",
+                                    "label": "固体饮料制造",
+                                    "parent": "152"
+                                },
+                                {
+                                    "value": "1529",
+                                    "label": "茶饮料及其他饮料制造",
+                                    "parent": "152"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "153",
+                            "label": "精制茶加工",
+                            "parent": "15",
+                            "children": [
+                                {
+                                    "value": "1530",
+                                    "label": "精制茶加工",
+                                    "parent": "153"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "16",
+                    "label": "烟草制品业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "161",
+                            "label": "烟叶复烤",
+                            "parent": "16",
+                            "children": [
+                                {
+                                    "value": "1610",
+                                    "label": "烟叶复烤",
+                                    "parent": "161"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "162",
+                            "label": "卷烟制造",
+                            "parent": "16",
+                            "children": [
+                                {
+                                    "value": "1620",
+                                    "label": "卷烟制造",
+                                    "parent": "162"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "169",
+                            "label": "其他烟草制品制造",
+                            "parent": "16",
+                            "children": [
+                                {
+                                    "value": "1690",
+                                    "label": "其他烟草制品制造",
+                                    "parent": "169"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "17",
+                    "label": "纺织业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "171",
+                            "label": "棉纺织及印染精加工",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1711",
+                                    "label": "棉纺纱加工",
+                                    "parent": "171"
+                                },
+                                {
+                                    "value": "1712",
+                                    "label": "棉织造加工",
+                                    "parent": "171"
+                                },
+                                {
+                                    "value": "1713",
+                                    "label": "棉印染精加工",
+                                    "parent": "171"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "172",
+                            "label": "毛纺织及染整精加工",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1721",
+                                    "label": "毛条和毛纱线加工",
+                                    "parent": "172"
+                                },
+                                {
+                                    "value": "1722",
+                                    "label": "毛织造加工",
+                                    "parent": "172"
+                                },
+                                {
+                                    "value": "1723",
+                                    "label": "毛染整精加工",
+                                    "parent": "172"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "173",
+                            "label": "麻纺织及染整精加工",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1731",
+                                    "label": "麻纤维纺前加工和纺纱",
+                                    "parent": "173"
+                                },
+                                {
+                                    "value": "1732",
+                                    "label": "麻织造加工",
+                                    "parent": "173"
+                                },
+                                {
+                                    "value": "1733",
+                                    "label": "麻染整精加工",
+                                    "parent": "173"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "174",
+                            "label": "丝绢纺织及印染精加工",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1741",
+                                    "label": "缫丝加工",
+                                    "parent": "174"
+                                },
+                                {
+                                    "value": "1742",
+                                    "label": "绢纺和丝织加工",
+                                    "parent": "174"
+                                },
+                                {
+                                    "value": "1743",
+                                    "label": "丝印染精加工",
+                                    "parent": "174"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "175",
+                            "label": "化纤织造及印染精加工",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1751",
+                                    "label": "化纤织造加工",
+                                    "parent": "175"
+                                },
+                                {
+                                    "value": "1752",
+                                    "label": "化纤织物染整精加工",
+                                    "parent": "175"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "176",
+                            "label": "针织或钩针编织物及其制品制造",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1761",
+                                    "label": "针织或钩针编织物织造",
+                                    "parent": "176"
+                                },
+                                {
+                                    "value": "1762",
+                                    "label": "针织或钩针编织物印染精加工",
+                                    "parent": "176"
+                                },
+                                {
+                                    "value": "1763",
+                                    "label": "针织或钩针编织品制造",
+                                    "parent": "176"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "177",
+                            "label": "家用纺织制成品制造",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1771",
+                                    "label": "床上用品制造",
+                                    "parent": "177"
+                                },
+                                {
+                                    "value": "1772",
+                                    "label": "毛巾类制品制造",
+                                    "parent": "177"
+                                },
+                                {
+                                    "value": "1773",
+                                    "label": "窗帘、布艺类产品制造",
+                                    "parent": "177"
+                                },
+                                {
+                                    "value": "1779",
+                                    "label": "其他家用纺织制成品制造",
+                                    "parent": "177"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "178",
+                            "label": "产业用纺织制成品制造",
+                            "parent": "17",
+                            "children": [
+                                {
+                                    "value": "1781",
+                                    "label": "非织造布制造",
+                                    "parent": "178"
+                                },
+                                {
+                                    "value": "1782",
+                                    "label": "绳、索、缆制造",
+                                    "parent": "178"
+                                },
+                                {
+                                    "value": "1783",
+                                    "label": "纺织带和帘子布制造",
+                                    "parent": "178"
+                                },
+                                {
+                                    "value": "1784",
+                                    "label": "篷、帆布制造",
+                                    "parent": "178"
+                                },
+                                {
+                                    "value": "1789",
+                                    "label": "其他产业用纺织制成品制造",
+                                    "parent": "178"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "18",
+                    "label": "纺织服装、服饰业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "181",
+                            "label": "机织服装制造",
+                            "parent": "18",
+                            "children": [
+                                {
+                                    "value": "1811",
+                                    "label": "运动机织服装制造",
+                                    "parent": "181"
+                                },
+                                {
+                                    "value": "1819",
+                                    "label": "其他机织服装制造",
+                                    "parent": "181"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "182",
+                            "label": "针织或钩针编织服装制造",
+                            "parent": "18",
+                            "children": [
+                                {
+                                    "value": "1821",
+                                    "label": "运动休闲针织服装制造",
+                                    "parent": "182"
+                                },
+                                {
+                                    "value": "1829",
+                                    "label": "其他针织或钩针编织服装制造",
+                                    "parent": "182"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "183",
+                            "label": "服饰制造",
+                            "parent": "18",
+                            "children": [
+                                {
+                                    "value": "1830",
+                                    "label": "服饰制造",
+                                    "parent": "183"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "19",
+                    "label": "皮革、毛皮、羽毛及其制品和制鞋业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "191",
+                            "label": "皮革鞣制加工",
+                            "parent": "19",
+                            "children": [
+                                {
+                                    "value": "1910",
+                                    "label": "皮革鞣制加工",
+                                    "parent": "191"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "192",
+                            "label": "皮革制品制造",
+                            "parent": "19",
+                            "children": [
+                                {
+                                    "value": "1921",
+                                    "label": "皮革服装制造",
+                                    "parent": "192"
+                                },
+                                {
+                                    "value": "1922",
+                                    "label": "皮箱、包（袋）制造",
+                                    "parent": "192"
+                                },
+                                {
+                                    "value": "1923",
+                                    "label": "皮手套及皮装饰制品制造",
+                                    "parent": "192"
+                                },
+                                {
+                                    "value": "1929",
+                                    "label": "其他皮革制品制造",
+                                    "parent": "192"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "193",
+                            "label": "毛皮鞣制及制品加工",
+                            "parent": "19",
+                            "children": [
+                                {
+                                    "value": "1931",
+                                    "label": "毛皮鞣制加工",
+                                    "parent": "193"
+                                },
+                                {
+                                    "value": "1932",
+                                    "label": "毛皮服装加工",
+                                    "parent": "193"
+                                },
+                                {
+                                    "value": "1939",
+                                    "label": "其他毛皮制品加工",
+                                    "parent": "193"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "194",
+                            "label": "羽毛(绒)加工及制品制造",
+                            "parent": "19",
+                            "children": [
+                                {
+                                    "value": "1941",
+                                    "label": "羽毛（绒）加工",
+                                    "parent": "194"
+                                },
+                                {
+                                    "value": "1942",
+                                    "label": "羽毛（绒）制品加工",
+                                    "parent": "194"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "20",
+                    "label": "木材加工和木、竹、藤、棕、草制品业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "201",
+                            "label": "木材加工",
+                            "parent": "20",
+                            "children": [
+                                {
+                                    "value": "2011",
+                                    "label": "锯材加工",
+                                    "parent": "201"
+                                },
+                                {
+                                    "value": "2012",
+                                    "label": "木片加工",
+                                    "parent": "201"
+                                },
+                                {
+                                    "value": "2019",
+                                    "label": "其他木材加工",
+                                    "parent": "201"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "202",
+                            "label": "人造板制造",
+                            "parent": "20",
+                            "children": [
+                                {
+                                    "value": "2021",
+                                    "label": "胶合板制造",
+                                    "parent": "202"
+                                },
+                                {
+                                    "value": "2022",
+                                    "label": "纤维板制造",
+                                    "parent": "202"
+                                },
+                                {
+                                    "value": "2023",
+                                    "label": "刨花板制造",
+                                    "parent": "202"
+                                },
+                                {
+                                    "value": "2029",
+                                    "label": "其他人造板制造",
+                                    "parent": "202"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "203",
+                            "label": "木质制品制造",
+                            "parent": "20",
+                            "children": [
+                                {
+                                    "value": "2031",
+                                    "label": "建筑用木料及木材组件加工",
+                                    "parent": "203"
+                                },
+                                {
+                                    "value": "2032",
+                                    "label": "木门窗制造",
+                                    "parent": "203"
+                                },
+                                {
+                                    "value": "2033",
+                                    "label": "木楼梯制造",
+                                    "parent": "203"
+                                },
+                                {
+                                    "value": "2034",
+                                    "label": "木地板制造",
+                                    "parent": "203"
+                                },
+                                {
+                                    "value": "2035",
+                                    "label": "木制容器制造",
+                                    "parent": "203"
+                                },
+                                {
+                                    "value": "2039",
+                                    "label": "软木制品及其他木制品制造",
+                                    "parent": "203"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "204",
+                            "label": "竹、藤、棕、草等制品制造",
+                            "parent": "20",
+                            "children": [
+                                {
+                                    "value": "2041",
+                                    "label": "竹制品制造",
+                                    "parent": "204"
+                                },
+                                {
+                                    "value": "2042",
+                                    "label": "藤制品制造",
+                                    "parent": "204"
+                                },
+                                {
+                                    "value": "2043",
+                                    "label": "棕制品制造",
+                                    "parent": "204"
+                                },
+                                {
+                                    "value": "2049",
+                                    "label": "草及其他制品制造",
+                                    "parent": "204"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "21",
+                    "label": "家具制造业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "211",
+                            "label": "木质家具制造",
+                            "parent": "21",
+                            "children": [
+                                {
+                                    "value": "2110",
+                                    "label": "木质家具制造",
+                                    "parent": "211"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "212",
+                            "label": "竹、藤家具制造",
+                            "parent": "21",
+                            "children": [
+                                {
+                                    "value": "2120",
+                                    "label": "竹、藤家具制造",
+                                    "parent": "212"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "213",
+                            "label": "金属家具制造",
+                            "parent": "21",
+                            "children": [
+                                {
+                                    "value": "2130",
+                                    "label": "金属家具制造",
+                                    "parent": "213"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "214",
+                            "label": "塑料家具制造",
+                            "parent": "21",
+                            "children": [
+                                {
+                                    "value": "2140",
+                                    "label": "塑料家具制造",
+                                    "parent": "214"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "219",
+                            "label": "其他家具制造",
+                            "parent": "21",
+                            "children": [
+                                {
+                                    "value": "2190",
+                                    "label": "其他家具制造",
+                                    "parent": "219"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "22",
+                    "label": "造纸和纸制品业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "221",
+                            "label": "纸浆制造",
+                            "parent": "22",
+                            "children": [
+                                {
+                                    "value": "2211",
+                                    "label": "木竹浆制造",
+                                    "parent": "221"
+                                },
+                                {
+                                    "value": "2212",
+                                    "label": "非木竹浆制造",
+                                    "parent": "221"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "222",
+                            "label": "造纸",
+                            "parent": "22",
+                            "children": [
+                                {
+                                    "value": "2221",
+                                    "label": "机制纸及纸板制造",
+                                    "parent": "222"
+                                },
+                                {
+                                    "value": "2222",
+                                    "label": "手工纸制造",
+                                    "parent": "222"
+                                },
+                                {
+                                    "value": "2223",
+                                    "label": "加工纸制造",
+                                    "parent": "222"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "223",
+                            "label": "纸制品制造",
+                            "parent": "22",
+                            "children": [
+                                {
+                                    "value": "2231",
+                                    "label": "纸和纸板容器制造",
+                                    "parent": "223"
+                                },
+                                {
+                                    "value": "2239",
+                                    "label": "其他纸制品制造",
+                                    "parent": "223"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "23",
+                    "label": "印刷和记录媒介复制业",
+                    "parent": "C",
+                    "children": [
+                        {
+                            "value": "231",
+                            "label": "印刷",
+                            "parent": "23",
+                            "children": [
+                                {
+                                    "value": "2311",
+                                    "label": "书、报刊印刷",
+                                    "parent": "231"
+                                },
+                                {
+                                    "value": "2312",
+                                    "label": "本册印制",
+                                    "parent": "231"
+                                },
+                                {
+                                    "value": "2319",
+                                    "label": "包装装潢及其他印刷",
+                                    "parent": "231"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "232",
+                            "label": "装订及印刷相关服务",
+                            "parent": "23",
+                            "children": [
+                                {
+                                    "value": "2320",
+                                    "label": "装订及印刷相关服务",
+                                    "parent": "232"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "233",
+                            "label": "记录媒介复制",
+                            "parent": "23",
+                            "children": [
+                                {
+                                    "value": "2330",
+                                    "label": "记录媒介复制",
+                                    "parent": "233"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value": "F",
+            "label": "批发和零售业",
+            "children": [
+                {
+                    "value": "51",
+                    "label": "批发业",
+                    "parent": "F",
+                    "children": [
+                        {
+                            "value": "511",
+                            "label": "农、林、牧、渔产品批发",
+                            "parent": "51",
+                            "children": [
+                                {
+                                    "value": "5111",
+                                    "label": "谷物、豆及薯类批发",
+                                    "parent": "511"
+                                },
+                                {
+                                    "value": "5112",
+                                    "label": "种子批发",
+                                    "parent": "511"
+                                },
+                                {
+                                    "value": "5113",
+                                    "label": "畜牧渔业饲料批发",
+                                    "parent": "511"
+                                },
+                                {
+                                    "value": "5114",
+                                    "label": "棉、麻批发",
+                                    "parent": "511"
+                                },
+                                {
+                                    "value": "5115",
+                                    "label": "林业产品批发",
+                                    "parent": "511"
+                                },
+                                {
+                                    "value": "5116",
+                                    "label": "牲畜批发",
+                                    "parent": "511"
+                                },
+                                {
+                                    "value": "5117",
+                                    "label": "渔业产品批发",
+                                    "parent": "511"
+                                },
+                                {
+                                    "value": "5119",
+                                    "label": "其他农牧产品批发",
+                                    "parent": "511"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "512",
+                            "label": "食品、饮料及烟草制品批发",
+                            "parent": "51",
+                            "children": [
+                                {
+                                    "value": "5121",
+                                    "label": "米、面制品及食用油批发",
+                                    "parent": "512"
+                                },
+                                {
+                                    "value": "5123",
+                                    "label": "果品、蔬菜批发",
+                                    "parent": "512"
+                                },
+                                {
+                                    "value": "5124",
+                                    "label": "肉、禽、蛋、奶及水产品批发",
+                                    "parent": "512"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "516",
+                            "label": "矿产品、建材及化工产品批发",
+                            "parent": "51",
+                            "children": [
+                                {
+                                    "value": "5166",
+                                    "label": "化肥批发",
+                                    "parent": "516"
+                                },
+                                {
+                                    "value": "5167",
+                                    "label": "农药批发",
+                                    "parent": "516"
+                                },
+                                {
+                                    "value": "5168",
+                                    "label": "农用薄膜批发",
+                                    "parent": "516"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "517",
+                            "label": "机械设备、五金产品及电子产品批发",
+                            "parent": "51",
+                            "children": [
+                                {
+                                    "value": "5171",
+                                    "label": "农业机械批发",
+                                    "parent": "517"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "52",
+                    "label": "零售业",
+                    "parent": "F",
+                    "children": [
+                        {
+                            "value": "522",
+                            "label": "食品、饮料及烟草制品专门零售",
+                            "parent": "52",
+                            "children": [
+                                {
+                                    "value": "5221",
+                                    "label": "粮油零售",
+                                    "parent": "522"
+                                },
+                                {
+                                    "value": "5223",
+                                    "label": "果品、蔬菜零售",
+                                    "parent": "522"
+                                },
+                                {
+                                    "value": "5224",
+                                    "label": "肉、禽、蛋、奶及水产品零售",
+                                    "parent": "522"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value": "G",
+            "label": "交通运输、仓储和邮政业",
+            "children": [
+                {
+                    "value": "54",
+                    "label": "道路运输业",
+                    "parent": "G",
+                    "children": [
+                        {
+                            "value": "543",
+                            "label": "道路货物运输",
+                            "parent": "54",
+                            "children": [
+                                {
+                                    "value": "5432",
+                                    "label": "冷藏车道路运输",
+                                    "parent": "543"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "59",
+                    "label": "装卸搬运和仓储业",
+                    "parent": "G",
+                    "children": [
+                        {
+                            "value": "595",
+                            "label": "谷物、棉花等农产品仓储",
+                            "parent": "59",
+                            "children": [
+                                {
+                                    "value": "5951",
+                                    "label": "谷物仓储",
+                                    "parent": "595"
+                                },
+                                {
+                                    "value": "5952",
+                                    "label": "棉花仓储",
+                                    "parent": "595"
+                                },
+                                {
+                                    "value": "5959",
+                                    "label": "其他农产品仓储",
+                                    "parent": "595"
+                                }
+                            ]
+                        },
+                        {
+                            "value": "599",
+                            "label": "其他仓储业",
+                            "parent": "59"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "value": "M",
+            "label": "科学研究和技术服务业",
+            "children": [
+                {
+                    "value": "74",
+                    "label": "专业技术服务业",
+                    "parent": "M",
+                    "children": [
+                        {
+                            "value": "749",
+                            "label": "工业与专业设计及其他专业技术服务",
+                            "parent": "74",
+                            "children": [
+                                {
+                                    "value": "7493",
+                                    "label": "兽医服务",
+                                    "parent": "749"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "value": "75",
+                    "label": "科技推广和应用服务业",
+                    "parent": "M",
+                    "children": [
+                        {
+                            "value": "751",
+                            "label": "技术推广服务",
+                            "parent": "75",
+                            "children": [
+                                {
+                                    "value": "7511",
+                                    "label": "农林牧渔技术推广服务",
+                                    "parent": "751"
+                                },
+                                {
+                                    "value": "7512",
+                                    "label": "生物技术推广服务",
+                                    "parent": "751"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
